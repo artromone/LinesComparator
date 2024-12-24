@@ -1,5 +1,5 @@
 # LinesComparator
-```
+```cpp
 #include "linecomparator.h"
 #include <QCoreApplication>
 #include <QDebug>
@@ -43,7 +43,7 @@ int main() {
 }
 ```
 
-```
+```bash
 Линии различны
 Расстояние Хаусдорфа: 0.152349
 DTW расстояние: 0.0947517
